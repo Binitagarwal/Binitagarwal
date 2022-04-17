@@ -12,10 +12,10 @@
 
 ## Who am I :point_down:? < Change according to your needs >
 ```python
- from Ansh_Sarkar import personal_details
- # from Ansh_Personal import personal_ambitions
+ from Binit_Agarwal import personal_details
+ # from Binit_Personal import personal_ambitions
  class WhoAmI:
- 	name = 'Ansh Sarkar'
+ 	name = 'Binit Agarwal'
 	current_education = "B.Tech CSE"
 	hobbies = [
 				'Drawing',
@@ -27,7 +27,7 @@
 			
 	# return city name ...
 	def getCity():
-		retrun Siliguri_WestBengal_India_Asia_Earth()
+		retrun Medinipur_WestBengal_India_Asia_Earth()
 		
 	# return public ambitions ...
 	def Ambitions():
@@ -43,7 +43,6 @@
 ![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
 <!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
-<img  align='right' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="260px" width="230px">
 
 <!-- frameworks. added api calls to compact cards -->
 
